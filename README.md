@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monique Trotta</h1>
 <h3 align="center">✨ A passionate frontend developer ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moniquetrotta&label=Profile%20views&color=0e75b6&style=flat" alt="moniquetrotta" /> </p>
-
 - 🌱 I’m currently learning **HTML, CSS, Sass, JavaScript e React**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/moniquetrotta/](https://www.linkedin.com/in/moniquetrotta/)
