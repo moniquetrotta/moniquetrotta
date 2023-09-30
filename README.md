@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monique Trotta</h1>
 <h3 align="center">✨ A passionate front-end developer ✨</h3>
 
-- I’m currently learning **HTML, CSS, Sass, JavaScript e React**
+- I’m currently learning **HTML, CSS, Sass, JavaScript, TypeScript, React, Angular, Node e Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
