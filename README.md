@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-
+<img src="https://www.codewars.com/users/moniquetrotta/badges/small" alt="codewars"/>
 <!--
 **moniquetrotta/moniquetrotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
